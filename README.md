@@ -1,6 +1,6 @@
 ### NovaStart - Simple Blogs project
 
-Live [Link] (https://simple-blogs-six.vercel.app/)
+Live [Link](https://simple-blogs-six.vercel.app/)
 
 ## Installation & Setup
 
