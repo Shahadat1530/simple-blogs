@@ -6,11 +6,12 @@ const BlogCard = ({ blog }) => {
         <div
             className="group bg-white/5 backdrop-blur-lg border border-white/10 rounded-2xl overflow-hidden hover:scale-[1.02] transition">
 
-            <div className="overflow-hidden w-full h-[250px]">
+            <div className="relative w-full h-[250px] overflow-hidden">
                 <Image
                     alt={`image of ${blog?.title}`}
                     src={blog?.image}
                     className="object-cover group-hover:scale-110 transition duration-500"
+                    fill
                 />
             </div>
 

@@ -8,7 +8,7 @@ const blogs = [
         "date": "2026-01-12",
         "category": "Next.js",
         "readTime": "5 min",
-        "image": "https://plus.unsplash.com/premium_photo-1764688953383-afbef636b938?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fFNlcnZlciUyMENvbXBvbmVudHN8ZW58MHx8MHx8fDA%3D"
+        "image": "/images/blogs/blog1.jpg"
     },
     {
         "id": 2,
@@ -19,7 +19,7 @@ const blogs = [
         "date": "2026-01-18",
         "category": "React",
         "readTime": "6 min",
-        "image": "https://plus.unsplash.com/premium_photo-1720551256796-624029b9dc84?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8U3RyZWFtaW5nJTIwVUklMjBFeHBsYWluZWQlMjB3aXRoJTIwUHJhY3RpY2FsJTIwRXhhbXBsZXN8ZW58MHx8MHx8fDA%3D"
+        "image": "/images/blogs/blog2.jpg"
     },
     {
         "id": 3,
@@ -30,7 +30,7 @@ const blogs = [
         "date": "2026-02-02",
         "category": "Next.js",
         "readTime": "4 min",
-        "image": "https://plus.unsplash.com/premium_photo-1720551256796-624029b9dc84?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8U3RyZWFtaW5nJTIwVUklMjBFeHBsYWluZWQlMjB3aXRoJTIwUHJhY3RpY2FsJTIwRXhhbXBsZXN8ZW58MHx8MHx8fDA%3D"
+        "image": "/images/blogs/blog3.jpg"
     },
     {
         "id": 4,
@@ -41,7 +41,7 @@ const blogs = [
         "date": "2026-02-10",
         "category": "Best Practices",
         "readTime": "5 min",
-        "image": "https://plus.unsplash.com/premium_photo-1720551256796-624029b9dc84?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8U3RyZWFtaW5nJTIwVUklMjBFeHBsYWluZWQlMjB3aXRoJTIwUHJhY3RpY2FsJTIwRXhhbXBsZXN8ZW58MHx8MHx8fDA%3D"
+        "image": "/images/blogs/blog4.jpg"
     },
     {
         "id": 5,
@@ -52,7 +52,7 @@ const blogs = [
         "date": "2026-02-20",
         "category": "React",
         "readTime": "7 min",
-        "image": "https://plus.unsplash.com/premium_photo-1720551256796-624029b9dc84?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8U3RyZWFtaW5nJTIwVUklMjBFeHBsYWluZWQlMjB3aXRoJTIwUHJhY3RpY2FsJTIwRXhhbXBsZXN8ZW58MHx8MHx8fDA%3D"
+        "image": "/images/blogs/blog5.jpg"
     },
     {
         "id": 6,
@@ -63,7 +63,7 @@ const blogs = [
         "date": "2026-02-25",
         "category": "CSS",
         "readTime": "5 min",
-        "image": "https://plus.unsplash.com/premium_photo-1720551256796-624029b9dc84?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8U3RyZWFtaW5nJTIwVUklMjBFeHBsYWluZWQlMjB3aXRoJTIwUHJhY3RpY2FsJTIwRXhhbXBsZXN8ZW58MHx8MHx8fDA%3D"
+        "image": "/images/blogs/blog6.jpg"
     },
     {
         "id": 7,
@@ -74,7 +74,7 @@ const blogs = [
         "date": "2026-03-01",
         "category": "Architecture",
         "readTime": "6 min",
-        "image": "https://plus.unsplash.com/premium_photo-1720551256796-624029b9dc84?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8U3RyZWFtaW5nJTIwVUklMjBFeHBsYWluZWQlMjB3aXRoJTIwUHJhY3RpY2FsJTIwRXhhbXBsZXN8ZW58MHx8MHx8fDA%3D"
+        "image": "/images/blogs/blog7.jpg"
     },
     {
         "id": 8,
@@ -85,7 +85,7 @@ const blogs = [
         "date": "2026-03-05",
         "category": "Next.js",
         "readTime": "5 min",
-        "image": "https://plus.unsplash.com/premium_photo-1720551256796-624029b9dc84?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8U3RyZWFtaW5nJTIwVUklMjBFeHBsYWluZWQlMjB3aXRoJTIwUHJhY3RpY2FsJTIwRXhhbXBsZXN8ZW58MHx8MHx8fDA%3D"
+        "image": "/images/blogs/blog8.jpg"
     },
     {
         "id": 9,
@@ -96,7 +96,7 @@ const blogs = [
         "date": "2026-03-10",
         "category": "React",
         "readTime": "4 min",
-        "image": "https://plus.unsplash.com/premium_photo-1720551256796-624029b9dc84?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8U3RyZWFtaW5nJTIwVUklMjBFeHBsYWluZWQlMjB3aXRoJTIwUHJhY3RpY2FsJTIwRXhhbXBsZXN8ZW58MHx8MHx8fDA%3D"
+        "image": "/images/blogs/blog9.jpg"
     },
     {
         "id": 10,
@@ -107,7 +107,7 @@ const blogs = [
         "date": "2026-03-15",
         "category": "Deployment",
         "readTime": "6 min",
-        "image": "https://plus.unsplash.com/premium_photo-1720551256796-624029b9dc84?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8U3RyZWFtaW5nJTIwVUklMjBFeHBsYWluZWQlMjB3aXRoJTIwUHJhY3RpY2FsJTIwRXhhbXBsZXN8ZW58MHx8MHx8fDA%3D"
+        "image": "/images/blogs/blog10.jpg"
     }
 ]
 
