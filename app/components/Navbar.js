@@ -13,7 +13,6 @@ const Navbar = () => {
             <div className="flex items-center space-x-8 text-sm">
                 <Link href="/" className="hover:text-blue-400 transition">Home</Link>
                 <Link href="/blogs" className="hover:text-blue-400 transition">Blogs</Link>
-                <Link href="/about" className="hover:text-blue-400 transition">About</Link>
             </div>
         </nav>
     )
